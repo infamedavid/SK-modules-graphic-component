@@ -14,6 +14,8 @@ Other components are taged as "true" and "false"   to denote two  states of the 
 
 ![alt text](https://github.com/infamedavid/SK-modules-graphic-component/blob/master/res/00_prvw.png "preview")
 
+this repo is a work in progress, comments and criticismare welcomed, if you are looking for a componnet that is not included,  open a issue and I will make it
+
 all the components are licenced under [CC-BY](https://creativecommons.org/licenses/by/2.0/) .
 
 
