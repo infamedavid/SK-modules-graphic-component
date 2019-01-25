@@ -16,6 +16,12 @@ Other components are taged as "true" and "false"   to denote two  states of the 
 
 this repo is a work in progress, comments and criticismare welcomed, if you are looking for a componnet that is not included,  open a issue and I will make it
 
+TO DO:
+V-sliders
+H-sliders
+two position switch 
+three position switch
+
 all the components are licenced under [CC-BY](https://creativecommons.org/licenses/by/2.0/) .
 
 
