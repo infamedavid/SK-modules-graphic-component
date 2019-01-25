@@ -3,3 +3,7 @@ repository for the graphics components  of [SK modules](https://github.com/Skryl
 
 ![alt text](https://raw.githubusercontent.com/infamedavid/SK-modules-graphic-component/master/demo.png "demo")
 
+![alt text](https://github.com/infamedavid/SK-modules-graphic-component/blob/master/res/00_prvw.png "preview")
+
+
+
